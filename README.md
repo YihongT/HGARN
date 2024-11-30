@@ -1,6 +1,6 @@
 # HGARN
 
-Source codes for [Activity-aware human mobility prediction with hierarchical graph attention recurrent network.](https://arxiv.org/pdf/2210.07765.pdf), published in [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979) in 2024.
+Source codes for [Activity-aware human mobility prediction with hierarchical graph attention recurrent network.](https://arxiv.org/pdf/2210.07765.pdf), published in IEEE Transactions on Intelligent Transportation Systems ([TITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)) in 2024.
 
 ## Requirements
 
