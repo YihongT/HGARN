@@ -27,11 +27,12 @@ python train.py
 Please cite our paper if you use the model in your own work:
 
 ```
-@article{tang2022hgarn,
-  title={HGARN: Hierarchical Graph Attention Recurrent Network for Human Mobility Prediction},
+@article{tang2024activity,
+  title={Activity-aware human mobility prediction with hierarchical graph attention recurrent network},
   author={Tang, Yihong and He, Junlin and Zhao, Zhan},
-  journal={arXiv preprint arXiv:2210.07765},
-  year={2022}
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2024},
+  publisher={IEEE}
 }
 ```
 
